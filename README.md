@@ -3,7 +3,7 @@ The solutions are implemented using the Python programming language, which is a 
 # Thank You
 # Regards M.Rayyan Feroz
 # Happy Coding!
-                 ![LeetCode_Sharing](https://user-images.githubusercontent.com/92220531/214499893-765c6079-316c-4ff6-bf5f-3036fd175aef.png)
+![leetcode](https://user-images.githubusercontent.com/92220531/214500280-8ad07371-a1e5-40a6-96b1-ea026bfb6b3b.jpeg)
 
 
 
